@@ -82,7 +82,7 @@ void main() {
   num billupto600 = 0;
   num billabove600 = 0;
 
-  double nummb = unit * 2.00;
+  // double nummb = unit * 2.00;
   if (unit >= 199) {
     billupto200 = chargesupto200 * 199;
   } else {
