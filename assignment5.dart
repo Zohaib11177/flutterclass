@@ -1,21 +1,7 @@
 import 'dart:ffi';
 import 'dart:io';
 
-// String printName(String fname, String lname) {
-//   return fname + lname;
-// }
 
-// int factorial() {
-//   String? newlimit = stdin.readLineSync();
-//   int limit = int.parse(newlimit!);
-//   int fact = 1;
-//   int number = limit;
-//   while (number > 0) {
-//     fact = fact * number;
-//     number--;
-//   }
-//   return fact;
-// }
 var initialoptions = [
   "Press 1. for Length Conversion",
   "Press 2. for Temperature conversion",
