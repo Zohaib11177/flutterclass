@@ -25,7 +25,7 @@ void main() {
     number--;
   }
   print(fact);
-  print(factorial(5));
+  print(factorial());
 
   var fcl = 10;
   var seriesfcl = [];
